@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="vidpik-icon.png" alt="VidPik app icon" width="100" />
+  <img src="assets/vidpik-icon.png" alt="VidPik app icon" width="100" />
 </p>
 
 <h1 align="center">VidPik - Video Downloader &amp; player</h1>
@@ -38,13 +38,13 @@ Available formats depend on the source. 4K access may require Pro or an availabl
 ## See VidPik
 
 <p align="center">
-  <img src="01-download-videos.png" alt="Paste a link and download videos with VidPik" width="31%" />
-  <img src="02-smart-media-detection.png" alt="Browse and detect available video media" width="31%" />
-  <img src="03-choose-quality.png" alt="Choose available video quality or audio" width="31%" />
+  <img src="assets/01-download-videos.png" alt="Paste a link and download videos with VidPik" width="31%" />
+  <img src="assets/02-smart-media-detection.png" alt="Browse and detect available video media" width="31%" />
+  <img src="assets/03-choose-quality.png" alt="Choose available video quality or audio" width="31%" />
 </p>
 <p align="center">
-  <img src="04-organize-offline-media.png" alt="Organize and manage offline media downloads" width="31%" />
-  <img src="05-built-in-player.png" alt="Watch saved videos with the built-in player" width="31%" />
+  <img src="assets/04-organize-offline-media.png" alt="Organize and manage offline media downloads" width="31%" />
+  <img src="assets/05-built-in-player.png" alt="Watch saved videos with the built-in player" width="31%" />
 </p>
 
 ## Watch VidPik in action
@@ -53,8 +53,8 @@ Three short videos. Each is available in portrait, square and landscape.
 
 | Paste & choose | Browse & save | Save now, play later |
 | :---: | :---: | :---: |
-| [![Paste and choose video preview](01-paste-choose-save.png)](01-paste-choose-save-landscape.mp4) | [![Browse and save video preview](02-browse-detect-save.png)](02-browse-detect-save-landscape.mp4) | [![Offline player video preview](03-save-now-play-later.png)](03-save-now-play-later-landscape.mp4) |
-| [▶ Portrait](01-paste-choose-save.mp4) · [▶ Square](01-paste-choose-save-square.mp4) · [▶ Landscape](01-paste-choose-save-landscape.mp4) | [▶ Portrait](02-browse-detect-save.mp4) · [▶ Square](02-browse-detect-save-square.mp4) · [▶ Landscape](02-browse-detect-save-landscape.mp4) | [▶ Portrait](03-save-now-play-later.mp4) · [▶ Square](03-save-now-play-later-square.mp4) · [▶ Landscape](03-save-now-play-later-landscape.mp4) |
+| [![Paste and choose video preview](assets/01-paste-choose-save.png)](assets/01-paste-choose-save-landscape.mp4) | [![Browse and save video preview](assets/02-browse-detect-save.png)](assets/02-browse-detect-save-landscape.mp4) | [![Offline player video preview](assets/03-save-now-play-later.png)](assets/03-save-now-play-later-landscape.mp4) |
+| [▶ Portrait](assets/01-paste-choose-save.mp4) · [▶ Square](assets/01-paste-choose-save-square.mp4) · [▶ Landscape](assets/01-paste-choose-save-landscape.mp4) | [▶ Portrait](assets/02-browse-detect-save.mp4) · [▶ Square](assets/02-browse-detect-save-square.mp4) · [▶ Landscape](assets/02-browse-detect-save-landscape.mp4) | [▶ Portrait](assets/03-save-now-play-later.mp4) · [▶ Square](assets/03-save-now-play-later-square.mp4) · [▶ Landscape](assets/03-save-now-play-later-landscape.mp4) |
 
 *15-second promotional edits. Visuals illustrate app features and flows; layouts and availability may vary by version. These are not real-time download-speed measurements.*
 
